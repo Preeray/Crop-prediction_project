@@ -38,7 +38,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/crop-prediction.git
+   git clone https://github.com/Preeray/crop-prediction.git
    cd crop-prediction
 2. Open the Jupyter Notebook:
    ```bash
